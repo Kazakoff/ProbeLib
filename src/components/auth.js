@@ -8,4 +8,4 @@ function Auth() {
   );
 }
 
-export default App;
+export default Auth;
